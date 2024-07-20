@@ -59,9 +59,9 @@
 
 ### Top Repositories
 
-<a href="https://github.com/ihsandanish/developer-portfolio">
+<a href="https://github.com/ihsandanish1/developer-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/ihsandanish/Express-Postgres-blog">
+<a href="https://github.com/ihsandanish1/Express-Postgres-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish&repo=Express-Postgres-blog&theme=algolia" />
 </a>

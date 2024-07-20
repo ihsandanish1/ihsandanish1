@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=ihsandanish&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ihsandanish1&color=brightgreen)
 
 - 🔭 Focusing on Frontend Development. 😎
 - 🌱 Trying to become an expert in Fullstack development ❤
@@ -37,10 +37,10 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsandanish&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Ihsan Danish's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsandanish1&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Ihsan Danish's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsandanish&theme=algolia" alt="ihsandanish" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsandanish1&theme=algolia" alt="ihsandanish1" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/ihsandanish1"><img alt="Check out ihsandanish's profile on stardev.io" src="https://stardev.io/developers/ihsandanish1/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/ihsandanish1"><img alt="Check out ihsandanish1's profile on stardev.io" src="https://stardev.io/developers/ihsandanish1/badge/languages/locality.svg" /></a>
 
 ---
 

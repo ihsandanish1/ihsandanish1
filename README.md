@@ -53,7 +53,7 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/ihsandanish"><img alt="Check out ihsandanish's profile on stardev.io" src="https://stardev.io/developers/ihsandanish/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/ihsandanish1"><img alt="Check out ihsandanish's profile on stardev.io" src="https://stardev.io/developers/ihsandanish/badge/languages/locality.svg" /></a>
 
 ---
 

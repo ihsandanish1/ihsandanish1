@@ -47,21 +47,21 @@
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsandanish&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsandanish1&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/ihsandanish1"><img alt="Check out ihsandanish's profile on stardev.io" src="https://stardev.io/developers/ihsandanish/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/ihsandanish1"><img alt="Check out ihsandanish's profile on stardev.io" src="https://stardev.io/developers/ihsandanish1/badge/languages/locality.svg" /></a>
 
 ---
 
 ### Top Repositories
 
 <a href="https://github.com/ihsandanish1/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish1&repo=developer-portfolio&theme=algolia" />
 </a>
 <a href="https://github.com/ihsandanish1/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihsandanish1&repo=Express-Postgres-blog&theme=algolia" />
 </a>
